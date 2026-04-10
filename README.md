@@ -21,8 +21,10 @@
 
 ## Скриншоты
 
-![Главный экран]()
-![Редактор]()
+![Главный экран](<img width="798" height="830" alt="image" src="https://github.com/user-attachments/assets/5608c6f8-1cd5-4974-893b-bcad8b27bbc4" />
+)
+![Редактор](<img width="1497" height="826" alt="image" src="https://github.com/user-attachments/assets/6092d9e0-4f59-4f4d-8d6c-e17db300a2ce" />
+)
 
 ## Технологии
 
