@@ -21,10 +21,10 @@
 
 ## Скриншоты
 
-![Главный экран]<img width="798" height="830" alt="ScreenShot1" src="https://github.com/user-attachments/assets/a977b3b3-f584-4096-be7d-5eb662daeff5" />
+Главный экран <img width="798" height="830" alt="ScreenShot1" src="https://github.com/user-attachments/assets/a977b3b3-f584-4096-be7d-5eb662daeff5" />
 
 
-![Редактор]<img width="1497" height="826" alt="ScreenShot2" src="https://github.com/user-attachments/assets/43065b96-3a22-45e5-8595-16297406ab60" />
+Редактор <img width="1497" height="826" alt="ScreenShot2" src="https://github.com/user-attachments/assets/43065b96-3a22-45e5-8595-16297406ab60" />
 
 
 ## Технологии
